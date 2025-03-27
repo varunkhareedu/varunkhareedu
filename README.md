@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @varunkhareedu
-- 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning DataScience course
 - 💞️ I’m looking to collaborate on Anything with interesting topic
 - 📫 How to reach me 
 - Email : varunkhareedu@gmail.com
